@@ -149,7 +149,7 @@ Os testes foram realizados utilizando o Thunder Client.
 
 ### POST - Cadastro
 
-![alt text](<Captura de tela 2026-09-30 104845.png>)
+![alt text](image.png)
 
 ### GET - Listagem
 
